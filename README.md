@@ -1,5 +1,5 @@
 # contactsjs
-Activité Partie 2 en Javascript dans le cadre du cours "Apprenez en coder en Javascript" de OCR  
+Activité Partie 2 en Javascript dans le cadre du cours "Apprenez à coder en Javascript" de OCR  
 L’objectif de cette activité est d’écrire un petit gestionnaire de contacts dans le fichier contacts.js.  
 Chaque contact a un nom et un prénom.   
 Le programme gère un tableau de contacts et offre à l’utilisateur le choix entre les fonctionnalités suivantes :  
